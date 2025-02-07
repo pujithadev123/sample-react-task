@@ -12,7 +12,7 @@ body{
     flex-direction: column;
     gap: 10px;
     border: 2px solid black;
-    width: 20vw;
+    width: 400px;
     padding: 20px;
     border-radius: 10px;
     background: linear-gradient(to right,pink,rgb(165, 240, 165));
